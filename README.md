@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liladhar s.
-- 👀 I’m interested in C++/C/.NET/PHP/HTML/CSS/AI/PYTHON/RUBY/JAVASCRIPT/JAVA/HACK
-- 🌱 I’m currently learning A.I
+- 👀 I’m interested in C++/C/.NET/PHP/HTML/CSS/AI/PYTHON/RUBY/JAVASCRIPT/JAVA/HACK/MALBOLGE/
+- 🌱 I’m currently learning A.I & World Most Difficult Programming Languages in the World    "Malbolge/INTERCAL/Brainfuck/COW/Whitespace/Go Wild "
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me :- Mail On- Liladhar_s@yahoo.com
 -     Web Address 🔗 :- http://ambedkar.medianewsonline.com/web-team/
